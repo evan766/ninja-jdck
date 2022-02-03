@@ -7,13 +7,13 @@ ninja 整个目录放置在青龙的config目录中
 cd /ql/config/ninja/backend && pm2 start
 ```
 
-##frontend 前端目录
+## frontend 前端目录
 - 主要是页面和请求backend提供的接口的代码
 - 如果需要修改代码，修改后需要构建才生效。
 - 构建命令 `pnpm install && pnpm run build`
 
 
-##backend 后端目录
+## backend 后端目录
 - 主要是和青龙接口交互的代码
 ```asciidoc
 docker exec -it qinglong sh
