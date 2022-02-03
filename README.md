@@ -51,6 +51,6 @@ NINJA_UA=""
 QL_URL=http://10.0.0.1:5700
 
 #青龙的appid和QL_APP_SECRET
-QL_APPID="ycSoZTYeBV6_"
-QL_APP_SECRET="B1_D7v4qFVJdVycR7mpwbc78"
+QL_APPID=""
+QL_APP_SECRET=""
 ```
