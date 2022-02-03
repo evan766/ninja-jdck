@@ -26,8 +26,8 @@
       <div class="card-body">
         <p><a href="http://jd1.9cc.space">http://jd1.9cc.space</a></p><br>
         <p><a href="http://jd2.9cc.space">http://jd2.9cc.space</a></p><br>
-        <p><a href="http://jd3.9cc.space">http://jd2.9cc.space</a></p><br>
-        <p><a href="http://jd4.9cc.space">http://jd3.9cc.space</a></p><br>
+        <p><a href="http://jd3.9cc.space">http://jd3.9cc.space</a></p><br>
+        <p><a href="http://jd4.9cc.space">http://jd4.9cc.space</a></p><br>
       </div>
     </div>
 
