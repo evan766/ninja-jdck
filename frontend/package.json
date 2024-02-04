@@ -9,6 +9,7 @@
     "clipboard": "^2.0.8",
     "element-plus": "^1.0.2-beta.62",
     "ky": "^0.28.5",
+    "pm2": "^5.3.1",
     "vue": "^3.1.5",
     "vue-router": "^4.0.10"
   },
@@ -19,7 +20,7 @@
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7",
     "vite": "^2.4.3",
-    "vite-plugin-async-catch": "^0.1.7",
+    "vite-plugin-async-catch": "^0.1.8",
     "vite-plugin-style-import": "^1.0.1"
   }
 }
