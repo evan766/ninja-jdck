@@ -32,23 +32,6 @@
       </div>
       <div class="card-footet"></div>
     </div>
-
-    <div class="card">
-      <p>加入QQ群接收失效提示和农场等收取提醒</p>
-      <p>群号：
-        <input value="821526314" id="qq_group_id2" style="width: 90px"/>
-        <el-button type="primary" size="mini" round class="copyBtn2" data-clipboard-target="#qq_group_id2">
-          复制
-        </el-button>
-      </p>
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        手机QQ扫码加群
-      </div>
-      <img width="250" src="@/assets/qq_group.png" alt="">
-    </div>
   </div>
 </template>
 
