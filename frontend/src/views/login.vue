@@ -24,41 +24,9 @@
         请使用以下最新的登录网址
       </div>
       <div class="card-body">
-        <p style="color:orangered"><a href="http://jd1.6cc.store">http://jd1.6cc.store</a></p><br>
-        <p style="color:orangered"><a href="http://jd2.6cc.store">http://jd2.6cc.store</a></p><br>
-        <p style="color:orangered"><a href="http://jd3.6cc.store">http://jd3.6cc.store</a></p><br>
-        <p style="color:orangered"><a href="http://jd4.6cc.store">http://jd4.6cc.store</a></p><br>
+        <p style="color:orangered"><a href="http://jd1.6cc.store">http://jd1.9cc.shop</a></p><br>  
       </div>
     </div>
-
-    <div class="card">
-      <div class="card-header" style="color:orangered">
-        9cc.space 将于2022年9月份失效
-      </div>
-      <div class="card-body">
-        <p><a href="http://jd1.9cc.space">http://jd1.9cc.space</a></p><br>
-        <p><a href="http://jd2.9cc.space">http://jd2.9cc.space</a></p><br>
-        <p><a href="http://jd3.9cc.space">http://jd3.9cc.space</a></p><br>
-        <p><a href="http://jd4.9cc.space">http://jd4.9cc.space</a></p><br>
-      </div>
-    </div>
-
-<!--    <div class="card">-->
-<!--      <p>加入QQ群接收失效提示和农场等收取提醒</p>-->
-<!--      <p>群号：-->
-<!--        <input value="821526314" id="qq_group_id" style="width: 90px"/>-->
-<!--        <el-button type="primary" size="mini" round class="copyBtn" data-clipboard-target="#qq_group_id">-->
-<!--          复制-->
-<!--        </el-button>-->
-<!--      </p>-->
-<!--    </div>-->
-
-<!--    <div class="card">-->
-<!--      <div class="card-header">-->
-<!--        手机QQ扫码加群-->
-<!--      </div>-->
-<!--      <img width="250" src="@/assets/qq_group.png" alt="">-->
-<!--    </div>-->
 
   </div>
 
